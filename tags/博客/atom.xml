@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on 低风险投资</title>
+    <link>https://dfxtz.net/tags/%E5%8D%9A%E5%AE%A2.html</link>
+    <description>Recent content in 博客 on 低风险投资</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jul 2021 17:20:00 +0800</lastBuildDate><atom:link href="https://dfxtz.net/tags/%E5%8D%9A%E5%AE%A2/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>给hugo增加夜间模式</title>
+      <link>https://dfxtz.net/post/%E7%BB%99hugo%E5%A2%9E%E5%8A%A0%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F.html</link>
+      <pubDate>Sun, 11 Jul 2021 17:20:00 +0800</pubDate>
+      
+      <guid>https://dfxtz.net/post/%E7%BB%99hugo%E5%A2%9E%E5%8A%A0%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F.html</guid>
+      <description>夜间模式还是有必要的，要不晚上看白屏太刺眼，参考某乎上的文章做了调整。 夜间模式样式 支持手动切换 固定时间段自动检测。 本地localStorag</description>
+    </item>
+    
+  </channel>
+</rss>
