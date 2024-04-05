@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on 低风险投资</title>
+    <link>https://blog.dfxtz.net/tags/blog.html</link>
+    <description>Recent content in blog on 低风险投资</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jul 2021 18:02:00 +0800</lastBuildDate><atom:link href="https://blog.dfxtz.net/tags/blog/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo搭建博客上云</title>
+      <link>https://blog.dfxtz.net/post/%E4%BD%BF%E7%94%A8hugo%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html</link>
+      <pubDate>Sun, 11 Jul 2021 18:02:00 +0800</pubDate>
+      
+      <guid>https://blog.dfxtz.net/post/%E4%BD%BF%E7%94%A8hugo%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html</guid>
+      <description>思路&amp;amp;过程 下载hugo, 选择喜欢的主题 申请云服务器 从gitpages迁移到云服务器 域名解析 nginx安装 &amp;amp;&amp;amp; 反向代理配置 https配置</description>
+    </item>
+    
+    <item>
+      <title>开启我的博客之旅</title>
+      <link>https://blog.dfxtz.net/post/set-sail-20.html</link>
+      <pubDate>Sun, 03 May 2020 17:06:33 +0800</pubDate>
+      
+      <guid>https://blog.dfxtz.net/post/set-sail-20.html</guid>
+      <description>起航20，一个全新的开始。 博客涉及方面 投资理财，将收入的一部分投入理财账户，将收益再投入利用复利，跑赢通胀，保证资产的保值增值。 生活思考。 一</description>
+    </item>
+    
+  </channel>
+</rss>
