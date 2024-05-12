@@ -1,316 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>popular on 低风险投资</title>
+    <title>Popular on 低风险投资</title>
     <link>https://blog.dfxtz.net/tags/popular.html</link>
-    <description>Recent content in popular on 低风险投资</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Popular on 低风险投资</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jan 2023 21:43:00 +0800</lastBuildDate><atom:link href="https://blog.dfxtz.net/tags/popular/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 21:43:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.dfxtz.net/tags/popular/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022年终总结</title>
       <link>https://blog.dfxtz.net/post/2022/2022-year-end-review.html</link>
       <pubDate>Wed, 18 Jan 2023 21:43:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2022/2022-year-end-review.html</guid>
-      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
-&lt;p&gt;先一句话概括，大方向没有太偏离年初制定的计划，完成度60%+吧，账面上看仅有少量结余，现阶段仍要保持充足的现金流，健康方面继续保持。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;充满魔幻而又现实的一年，“俄乌战争、能源危机、安倍晋三遇刺身亡、韩国首尔梨泰院踩踏、印度GDP超越英国、2022年世界杯、肆虐全球3年的新冠疫情收官”，期待未来越来越好。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;回顾2022&#34;&gt;回顾2022&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;&#xA;&lt;p&gt;先一句话概括，大方向没有太偏离年初制定的计划，完成度60%+吧，账面上看仅有少量结余，现阶段仍要保持充足的现金流，健康方面继续保持。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;充满魔幻而又现实的一年，“俄乌战争、能源危机、安倍晋三遇刺身亡、韩国首尔梨泰院踩踏、印度GDP超越英国、2022年世界杯、肆虐全球3年的新冠疫情收官”，期待未来越来越好。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;回顾2022&#34;&gt;回顾2022&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title>向上管理</title>
       <link>https://blog.dfxtz.net/post/2022/upward-management.html</link>
       <pubDate>Sun, 18 Sep 2022 14:00:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2022/upward-management.html</guid>
-      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
-&lt;p&gt;职场的高阶技能，向上管理的诀窍是&lt;code&gt;「管理老板的预期」&lt;/code&gt;，最后的工作要满足这个预期，不然就要降低他的预期，并且让他接受这个预期，预期不一致就容易被贴标签，&lt;code&gt;产生「高开低走」的现象&lt;/code&gt;。&lt;/p&gt;
-&lt;h2 id=&#34;向上管理几个关键要素&#34;&gt;向上管理几个关键要素&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;设置合理预期&lt;/li&gt;
-&lt;li&gt;及时汇报（更新进度和风险）&lt;/li&gt;
-&lt;li&gt;换位思考&lt;/li&gt;
-&lt;li&gt;向上分配&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.dfxtz.net/img/%E7%BD%97%E7%BA%A2%E8%89%BA%E6%9C%AF%E9%A6%86.jpg&#34; alt=&#34;avatar&#34; title=&#34;罗红艺术馆&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;&#xA;&lt;p&gt;职场的高阶技能，向上管理的诀窍是&lt;code&gt;「管理老板的预期」&lt;/code&gt;，最后的工作要满足这个预期，不然就要降低他的预期，并且让他接受这个预期，预期不一致就容易被贴标签，&lt;code&gt;产生「高开低走」的现象&lt;/code&gt;。&lt;/p&gt;&#xA;&lt;h2 id=&#34;向上管理几个关键要素&#34;&gt;向上管理几个关键要素&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;设置合理预期&lt;/li&gt;&#xA;&lt;li&gt;及时汇报（更新进度和风险）&lt;/li&gt;&#xA;&lt;li&gt;换位思考&lt;/li&gt;&#xA;&lt;li&gt;向上分配&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.dfxtz.net/img/%E7%BD%97%E7%BA%A2%E8%89%BA%E6%9C%AF%E9%A6%86.jpg&#34; alt=&#34;avatar&#34; title=&#34;罗红艺术馆&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>赚钱的同时更要赚健康</title>
       <link>https://blog.dfxtz.net/post/2022/make-money-and-keep-healthy-at-the-same-time.html</link>
       <pubDate>Sun, 03 Apr 2022 18:00:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2022/make-money-and-keep-healthy-at-the-same-time.html</guid>
-      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
-&lt;p&gt;赚钱的同时更要赚健康，整理近5年的体检报告，发现有多个指标在趋势上逐年上升，长此以往不去控制，有引发疾病的风险。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.dfxtz.net/img/%E8%BF%915%E5%B9%B4%E4%BD%93%E6%A3%80%E6%8C%87%E6%A0%87.PNG&#34; alt=&#34;avatar&#34; title=&#34;近5年体检指标&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;几个指标的解读&#34;&gt;几个指标的解读&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;&#xA;&lt;p&gt;赚钱的同时更要赚健康，整理近5年的体检报告，发现有多个指标在趋势上逐年上升，长此以往不去控制，有引发疾病的风险。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.dfxtz.net/img/%E8%BF%915%E5%B9%B4%E4%BD%93%E6%A3%80%E6%8C%87%E6%A0%87.PNG&#34; alt=&#34;avatar&#34; title=&#34;近5年体检指标&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;几个指标的解读&#34;&gt;几个指标的解读&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title>2021年终总结</title>
       <link>https://blog.dfxtz.net/post/2021/2021-year-end-review.html</link>
       <pubDate>Sun, 26 Dec 2021 20:38:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/2021-year-end-review.html</guid>
-      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
-&lt;p&gt;先一句话总结，年初制定的计划完成度不高（35%），因为每年都有记账的习惯，从账面上看年度收支出现赤字（年结余-2.56w），抗风险的能力在下降，家庭面临的风险不断升高。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;张爱玲说过：“中年以后的男人，时常会觉得孤独，因为他一睁开眼睛，周围都是要依靠他的人，却没有他可以依靠的人。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;回顾2021&#34;&gt;回顾2021&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;&#xA;&lt;p&gt;先一句话总结，年初制定的计划完成度不高（35%），因为每年都有记账的习惯，从账面上看年度收支出现赤字（年结余-2.56w），抗风险的能力在下降，家庭面临的风险不断升高。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;张爱玲说过：“中年以后的男人，时常会觉得孤独，因为他一睁开眼睛，周围都是要依靠他的人，却没有他可以依靠的人。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;回顾2021&#34;&gt;回顾2021&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title>普通投资者容易输钱的内在因素</title>
       <link>https://blog.dfxtz.net/post/2021/the-inherent-factors-that-ordinary-investors-are-easy-to-lose-money.html</link>
       <pubDate>Sat, 11 Dec 2021 19:00:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/the-inherent-factors-that-ordinary-investors-are-easy-to-lose-money.html</guid>
-      <description>&lt;p&gt;普通投资者容易输钱的内在因素&lt;/p&gt;
-&lt;p&gt;前面说了普通投资者在市场容易输钱的客观原因，除了客观原因外，更主要的还有很多自身的主观原因。我总结了以下十个主观原因：&lt;/p&gt;
-&lt;p&gt;第一大误区：赌博心理&lt;/p&gt;
-&lt;p&gt;投资是任何人都需要伴随一生的事情，是需要用时间来慢慢积累的。如果你有一笔10万的资金，我们假定平均每年能赚12%，那么40年后的资产是930万，如果同样的10万元，如果你晚投资10年，同样的收益率，那么最终只有不到300万，差了整整630万。&lt;/p&gt;
-&lt;p&gt;但如果你年轻的时候不及早开始投资，牛市来了看到周围人赚钱了又产生嫉妒心理。马云赚多少钱很少有人去比，因为大家知道比也比不了，但你周围的同学、同事、朋友、邻居如果赚了钱，很容易成为入市的一个理由。因为他们过去和我差不多。为什么他可以我就不可以了。在这种心态下进入股市，很容易产生赌博心理，因为想追上你的周围人。&lt;/p&gt;
-&lt;p&gt;在这种赌博心理趋势下，很容易把所有的资金全部一把注入到股市，满仓一个品种，甚至用了高杠杆。而这个时候往往已经是牛市的高点了。如果碰钱赚了点钱，更加会强化这种行为，直到赌博失败为止。&lt;/p&gt;
-&lt;p&gt;诚然，我们在投资过程中，不可能没有一点赌的因素。但即使是赌，也要理性的赌，比如赌博中最著名的凯利公式，就是理性下注的一个科学根据。&lt;/p&gt;</description>
+      <description>&lt;p&gt;普通投资者容易输钱的内在因素&lt;/p&gt;&#xA;&lt;p&gt;前面说了普通投资者在市场容易输钱的客观原因，除了客观原因外，更主要的还有很多自身的主观原因。我总结了以下十个主观原因：&lt;/p&gt;&#xA;&lt;p&gt;第一大误区：赌博心理&lt;/p&gt;&#xA;&lt;p&gt;投资是任何人都需要伴随一生的事情，是需要用时间来慢慢积累的。如果你有一笔10万的资金，我们假定平均每年能赚12%，那么40年后的资产是930万，如果同样的10万元，如果你晚投资10年，同样的收益率，那么最终只有不到300万，差了整整630万。&lt;/p&gt;&#xA;&lt;p&gt;但如果你年轻的时候不及早开始投资，牛市来了看到周围人赚钱了又产生嫉妒心理。马云赚多少钱很少有人去比，因为大家知道比也比不了，但你周围的同学、同事、朋友、邻居如果赚了钱，很容易成为入市的一个理由。因为他们过去和我差不多。为什么他可以我就不可以了。在这种心态下进入股市，很容易产生赌博心理，因为想追上你的周围人。&lt;/p&gt;&#xA;&lt;p&gt;在这种赌博心理趋势下，很容易把所有的资金全部一把注入到股市，满仓一个品种，甚至用了高杠杆。而这个时候往往已经是牛市的高点了。如果碰钱赚了点钱，更加会强化这种行为，直到赌博失败为止。&lt;/p&gt;&#xA;&lt;p&gt;诚然，我们在投资过程中，不可能没有一点赌的因素。但即使是赌，也要理性的赌，比如赌博中最著名的凯利公式，就是理性下注的一个科学根据。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>投资常用网站</title>
       <link>https://blog.dfxtz.net/post/2021/investment-website.html</link>
       <pubDate>Sat, 02 Oct 2021 16:48:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/investment-website.html</guid>
       <description>交易所 深交所 上交所 北交所 港交所 纽交所 信息网站 中国债券信息网 巨潮资讯 中证指数网 上证50指数 创新和基础层公告 新三板公告 工具网站 好卖基金 蛋卷指数 可</description>
     </item>
-    
     <item>
       <title>投资纪律和策略执行力</title>
       <link>https://blog.dfxtz.net/post/2021/investment-discipline-and-strategy-execution.html</link>
       <pubDate>Mon, 20 Sep 2021 11:52:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/investment-discipline-and-strategy-execution.html</guid>
-      <description>&lt;h3 id=&#34;引言&#34;&gt;引言&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;建立交易系统，一旦判断阶段性顶部来临，必须严格执行减仓操作，宁可高位踏空，也不要高位套牢。&lt;/li&gt;
-&lt;li&gt;投资重要的是没有做什么，而不是做了什么，孙子兵法曰先不败而后求胜，投资也一样。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;纪律&#34;&gt;纪律&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;长期持有好赛道、确定性高，看得懂的股票。&lt;/li&gt;
-&lt;li&gt;阶段性持仓，不迷恋随时翻转的市场情绪，保持冷静，一年一个好机会就够了，不吃鱼尾，重要的是控制回撤。&lt;/li&gt;
-&lt;li&gt;大部分股票都是升一段、跌一段，好的股票虽然能持续新高，但调整时间也很难熬，及时止盈、风格切换很重要。&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;引言&#34;&gt;引言&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;建立交易系统，一旦判断阶段性顶部来临，必须严格执行减仓操作，宁可高位踏空，也不要高位套牢。&lt;/li&gt;&#xA;&lt;li&gt;投资重要的是没有做什么，而不是做了什么，孙子兵法曰先不败而后求胜，投资也一样。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;纪律&#34;&gt;纪律&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;长期持有好赛道、确定性高，看得懂的股票。&lt;/li&gt;&#xA;&lt;li&gt;阶段性持仓，不迷恋随时翻转的市场情绪，保持冷静，一年一个好机会就够了，不吃鱼尾，重要的是控制回撤。&lt;/li&gt;&#xA;&lt;li&gt;大部分股票都是升一段、跌一段，好的股票虽然能持续新高，但调整时间也很难熬，及时止盈、风格切换很重要。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>投资赚钱的一些逻辑</title>
       <link>https://blog.dfxtz.net/post/2021/some-logic-for-making-money-from-investing.html</link>
       <pubDate>Mon, 20 Sep 2021 11:30:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/some-logic-for-making-money-from-investing.html</guid>
-      <description>&lt;h3 id=&#34;引言&#34;&gt;引言&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;投资投的是策略不是品种，关注概率、赔率，管理好仓位，锻炼自己的心态，保住本金等待机遇。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;清楚自己当下策略赚的是哪一类的钱，什么时候该进入，什么时候要果断退出，不赚最后一个铜板。&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;赚钱逻辑&#34;&gt;赚钱逻辑&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;赚企业成长的钱，业绩增长推动股价上涨，属于价值投资。&lt;/li&gt;
-&lt;li&gt;赚信息时间差的钱，通过各种手段，在信息公开或者发布前提前知晓，抢先买入卖出，等信息公开后获利了结。&lt;/li&gt;
-&lt;li&gt;赚市场恐慌的钱，由于突发利空或者熊市，导致恐慌抛售，不计成本卖出，股价过度低估，买入后等市场平复，回归正常估值获利了结。&lt;/li&gt;
-&lt;li&gt;赚市场狂热的钱，牛市，市场狂热，估值提升，持股不动，躺赚，在市场崩溃前逐步撤退了结。&lt;/li&gt;
-&lt;li&gt;赚困境反转的钱，上市公司遇到危机，股价大幅下跌，如果判断出这只是暂时的危机，企业最终可以度过，那抄底买入等企业股价恢复正常获利了结，例如以前的牛奶三聚氰胺，白酒塑化剂，狂犬疫苗危机等等。&lt;/li&gt;
-&lt;li&gt;赚同一个品种在不同市场上的定价错误导致的差价，主要是各种套利，溢价套利，折价套利等等。&lt;/li&gt;
-&lt;li&gt;赚企业基本面变化的钱，企业正面变化导致股价上涨，负面变化导致股价下跌，因此关注变化，而不仅仅是基本面也能赚钱。&lt;/li&gt;
-&lt;li&gt;赚市场低估的钱，市场每年风格不一样，有时候给予高估值，有时候给予低估值，在低估的时候买入，等估值修复获利了结。&lt;/li&gt;
-&lt;li&gt;赚资金优势的钱，大资金可以左右股价，可以控盘，利用资金优势赚散户的钱。&lt;/li&gt;
-&lt;li&gt;赚专业和信息优势的钱，专业机构比普通散户更有优势，打不过可以加入，通过基金赚钱。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;慢慢总结赚钱逻辑，在实战中感受，不断调整。&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;引言&#34;&gt;引言&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;投资投的是策略不是品种，关注概率、赔率，管理好仓位，锻炼自己的心态，保住本金等待机遇。&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;清楚自己当下策略赚的是哪一类的钱，什么时候该进入，什么时候要果断退出，不赚最后一个铜板。&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;赚钱逻辑&#34;&gt;赚钱逻辑&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;赚企业成长的钱，业绩增长推动股价上涨，属于价值投资。&lt;/li&gt;&#xA;&lt;li&gt;赚信息时间差的钱，通过各种手段，在信息公开或者发布前提前知晓，抢先买入卖出，等信息公开后获利了结。&lt;/li&gt;&#xA;&lt;li&gt;赚市场恐慌的钱，由于突发利空或者熊市，导致恐慌抛售，不计成本卖出，股价过度低估，买入后等市场平复，回归正常估值获利了结。&lt;/li&gt;&#xA;&lt;li&gt;赚市场狂热的钱，牛市，市场狂热，估值提升，持股不动，躺赚，在市场崩溃前逐步撤退了结。&lt;/li&gt;&#xA;&lt;li&gt;赚困境反转的钱，上市公司遇到危机，股价大幅下跌，如果判断出这只是暂时的危机，企业最终可以度过，那抄底买入等企业股价恢复正常获利了结，例如以前的牛奶三聚氰胺，白酒塑化剂，狂犬疫苗危机等等。&lt;/li&gt;&#xA;&lt;li&gt;赚同一个品种在不同市场上的定价错误导致的差价，主要是各种套利，溢价套利，折价套利等等。&lt;/li&gt;&#xA;&lt;li&gt;赚企业基本面变化的钱，企业正面变化导致股价上涨，负面变化导致股价下跌，因此关注变化，而不仅仅是基本面也能赚钱。&lt;/li&gt;&#xA;&lt;li&gt;赚市场低估的钱，市场每年风格不一样，有时候给予高估值，有时候给予低估值，在低估的时候买入，等估值修复获利了结。&lt;/li&gt;&#xA;&lt;li&gt;赚资金优势的钱，大资金可以左右股价，可以控盘，利用资金优势赚散户的钱。&lt;/li&gt;&#xA;&lt;li&gt;赚专业和信息优势的钱，专业机构比普通散户更有优势，打不过可以加入，通过基金赚钱。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;慢慢总结赚钱逻辑，在实战中感受，不断调整。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>可转债投资理念</title>
       <link>https://blog.dfxtz.net/post/2021/convertible-bond-investment-concept.html</link>
       <pubDate>Mon, 20 Sep 2021 11:10:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/convertible-bond-investment-concept.html</guid>
-      <description>&lt;h3 id=&#34;引言&#34;&gt;引言&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;可转债本身既有保底价值，也有向上的期权价值；可转债的发行方也就是上市公司，本意是通过较低的融资利息进行企业再生产，且多数是不愿还钱；从历史数据看转债大概率会进行强赎，这样可转债价值也跟着水涨船高，债权人获利了结，上市公司也解决了还钱的问题，两全其美。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;关注两个指标&#34;&gt;关注两个指标&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;转股价值=(面值/转股价)*当前股价&lt;/li&gt;
-&lt;li&gt;溢价率=价格相对于转股价值的溢价&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;明确赚的是什么钱&#34;&gt;明确赚的是什么钱&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;低溢价赚的是妖债的钱。&lt;/li&gt;
-&lt;li&gt;双底赚股市市场的钱。&lt;/li&gt;
-&lt;li&gt;低价赚债市债低的钱。&lt;/li&gt;
-&lt;li&gt;到期赚的是债的钱。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;确定性和收益率&#34;&gt;确定性和收益率&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;确定性：到期&amp;gt;价低&amp;gt;双底&amp;gt;低溢价&lt;/li&gt;
-&lt;li&gt;收益率：到期&amp;lt;价低&amp;lt;双底&amp;lt;低溢价&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;风险&#34;&gt;风险&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;价低是债市，最不值得玩，只有单条腿走路，其他都是双条腿。&lt;/li&gt;
-&lt;li&gt;低溢价是妖股、股市。&lt;/li&gt;
-&lt;li&gt;双底是股市、债市。&lt;/li&gt;
-&lt;li&gt;到期是债市、时间&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;低溢价+到期，是两个最不相关的策略，可以组成股债再平衡组合。&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;引言&#34;&gt;引言&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;可转债本身既有保底价值，也有向上的期权价值；可转债的发行方也就是上市公司，本意是通过较低的融资利息进行企业再生产，且多数是不愿还钱；从历史数据看转债大概率会进行强赎，这样可转债价值也跟着水涨船高，债权人获利了结，上市公司也解决了还钱的问题，两全其美。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;关注两个指标&#34;&gt;关注两个指标&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转股价值=(面值/转股价)*当前股价&lt;/li&gt;&#xA;&lt;li&gt;溢价率=价格相对于转股价值的溢价&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;明确赚的是什么钱&#34;&gt;明确赚的是什么钱&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;低溢价赚的是妖债的钱。&lt;/li&gt;&#xA;&lt;li&gt;双底赚股市市场的钱。&lt;/li&gt;&#xA;&lt;li&gt;低价赚债市债低的钱。&lt;/li&gt;&#xA;&lt;li&gt;到期赚的是债的钱。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;确定性和收益率&#34;&gt;确定性和收益率&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;确定性：到期&amp;gt;价低&amp;gt;双底&amp;gt;低溢价&lt;/li&gt;&#xA;&lt;li&gt;收益率：到期&amp;lt;价低&amp;lt;双底&amp;lt;低溢价&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;风险&#34;&gt;风险&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;价低是债市，最不值得玩，只有单条腿走路，其他都是双条腿。&lt;/li&gt;&#xA;&lt;li&gt;低溢价是妖股、股市。&lt;/li&gt;&#xA;&lt;li&gt;双底是股市、债市。&lt;/li&gt;&#xA;&lt;li&gt;到期是债市、时间&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;低溢价+到期，是两个最不相关的策略，可以组成股债再平衡组合。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>控制高血压完整版</title>
       <link>https://blog.dfxtz.net/post/2021/control-hypertension-complete-edition.html</link>
       <pubDate>Sun, 15 Aug 2021 00:17:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/control-hypertension-complete-edition.html</guid>
-      <description>&lt;h1 id=&#34;目录&#34;&gt;目录&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;什么是高血压&lt;/li&gt;
-&lt;li&gt;不吃药会怎么样&lt;/li&gt;
-&lt;li&gt;用药注意&lt;/li&gt;
-&lt;li&gt;生活注意
-&lt;ul&gt;
-&lt;li&gt;减轻体重&lt;/li&gt;
-&lt;li&gt;控制盐分&lt;/li&gt;
-&lt;li&gt;低脂饮食&lt;/li&gt;
-&lt;li&gt;低热量饮食&lt;/li&gt;
-&lt;li&gt;多吃高纤维食物&lt;/li&gt;
-&lt;li&gt;补充钙和钾&lt;/li&gt;
-&lt;li&gt;限制饮酒&lt;/li&gt;
-&lt;li&gt;戒烟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;作息注意
-&lt;ul&gt;
-&lt;li&gt;适当运动&lt;/li&gt;
-&lt;li&gt;情绪平和&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;总结&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;什么是高血压&#34;&gt;什么是高血压&lt;/h2&gt;
-&lt;p&gt;不同日的3次以上测量出现收缩压&amp;gt;=140mmHg 和 舒张压&amp;gt;=90mmHg，即为高血压。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;目录&#34;&gt;目录&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;什么是高血压&lt;/li&gt;&#xA;&lt;li&gt;不吃药会怎么样&lt;/li&gt;&#xA;&lt;li&gt;用药注意&lt;/li&gt;&#xA;&lt;li&gt;生活注意&#xA;&lt;ul&gt;&#xA;&lt;li&gt;减轻体重&lt;/li&gt;&#xA;&lt;li&gt;控制盐分&lt;/li&gt;&#xA;&lt;li&gt;低脂饮食&lt;/li&gt;&#xA;&lt;li&gt;低热量饮食&lt;/li&gt;&#xA;&lt;li&gt;多吃高纤维食物&lt;/li&gt;&#xA;&lt;li&gt;补充钙和钾&lt;/li&gt;&#xA;&lt;li&gt;限制饮酒&lt;/li&gt;&#xA;&lt;li&gt;戒烟&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;作息注意&#xA;&lt;ul&gt;&#xA;&lt;li&gt;适当运动&lt;/li&gt;&#xA;&lt;li&gt;情绪平和&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;总结&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;什么是高血压&#34;&gt;什么是高血压&lt;/h2&gt;&#xA;&lt;p&gt;不同日的3次以上测量出现收缩压&amp;gt;=140mmHg 和 舒张压&amp;gt;=90mmHg，即为高血压。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>低风险投资体系2021</title>
       <link>https://blog.dfxtz.net/post/2021/low-risk-investment-system-2021.html</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/low-risk-investment-system-2021.html</guid>
-      <description>&lt;h3 id=&#34;个人的低风险投资体系2021&#34;&gt;个人的低风险投资体系2021&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;远离一夜暴富的想法。&lt;/li&gt;
-&lt;li&gt;坚持低风险，保住本金，希望通过时间复利，实现资产保值增值。&lt;/li&gt;
-&lt;li&gt;在实践中不断调整和优化。
-&lt;img src=&#34;https://blog.dfxtz.net/img/%E4%BD%8E%E9%A3%8E%E9%99%A9%E6%8A%95%E8%B5%84%E7%90%86%E5%BF%B5.png&#34; alt=&#34;avatar&#34; title=&#34;说明&#34;&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;个人的低风险投资体系2021&#34;&gt;个人的低风险投资体系2021&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;远离一夜暴富的想法。&lt;/li&gt;&#xA;&lt;li&gt;坚持低风险，保住本金，希望通过时间复利，实现资产保值增值。&lt;/li&gt;&#xA;&lt;li&gt;在实践中不断调整和优化。&#xA;&lt;img src=&#34;https://blog.dfxtz.net/img/%E4%BD%8E%E9%A3%8E%E9%99%A9%E6%8A%95%E8%B5%84%E7%90%86%E5%BF%B5.png&#34; alt=&#34;avatar&#34; title=&#34;说明&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>可转债摊投资的反思和总结</title>
       <link>https://blog.dfxtz.net/post/2021/some-reflection-and-summary-of-convertible-bond-investment.html</link>
       <pubDate>Sat, 31 Jul 2021 16:51:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/some-reflection-and-summary-of-convertible-bond-investment.html</guid>
-      <description>&lt;p&gt;&lt;code&gt;2020年摊的可转债大饼仓，在年底的时候仓位最高跌幅近27个点，没想到不到半年就解套了，这么快的时间，说实在的有些遗憾。&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;反思&#34;&gt;反思&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;当时为什么没有在低点继续加仓？
-&lt;ul&gt;
-&lt;li&gt;可投资资金已经全部打光，可转债一般是6年到期还本付息，在最长周期下考虑资金占用成本和时间沉默成本，在没有较高确定性的机会下不愿意上杠杆。&lt;/li&gt;
-&lt;li&gt;当时整体仓位，按照个人的投资体系风险系数，已经达到较高阈值，仓位风险较高，个人还是属于右侧交易类型，所以采取锁仓观望。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;突然的快速下跌，恐慌情绪为什么也影响到了自己？
-&lt;ul&gt;
-&lt;li&gt;对可转债背后的投资逻辑和思考没有想明白，这种砸出的低价格现在看来其实是巨大的黄金坑，即便出现违约，也可以通过适度分散消化掉，达到投资收益最大化，而不应出现害怕和恐慌。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;投资体系如何进一步优化？
-&lt;ul&gt;
-&lt;li&gt;准备好子弹，静静的等待黄金坑出现（鬼故事满天飞），一旦有机会，分批次直接进入，然后静待花开。&lt;/li&gt;
-&lt;li&gt;每支转债要适度分散，有便宜货就捡，没有就继续等待，不懂不做。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;&lt;code&gt;2020年摊的可转债大饼仓，在年底的时候仓位最高跌幅近27个点，没想到不到半年就解套了，这么快的时间，说实在的有些遗憾。&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;反思&#34;&gt;反思&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;当时为什么没有在低点继续加仓？&#xA;&lt;ul&gt;&#xA;&lt;li&gt;可投资资金已经全部打光，可转债一般是6年到期还本付息，在最长周期下考虑资金占用成本和时间沉默成本，在没有较高确定性的机会下不愿意上杠杆。&lt;/li&gt;&#xA;&lt;li&gt;当时整体仓位，按照个人的投资体系风险系数，已经达到较高阈值，仓位风险较高，个人还是属于右侧交易类型，所以采取锁仓观望。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;突然的快速下跌，恐慌情绪为什么也影响到了自己？&#xA;&lt;ul&gt;&#xA;&lt;li&gt;对可转债背后的投资逻辑和思考没有想明白，这种砸出的低价格现在看来其实是巨大的黄金坑，即便出现违约，也可以通过适度分散消化掉，达到投资收益最大化，而不应出现害怕和恐慌。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;投资体系如何进一步优化？&#xA;&lt;ul&gt;&#xA;&lt;li&gt;准备好子弹，静静的等待黄金坑出现（鬼故事满天飞），一旦有机会，分批次直接进入，然后静待花开。&lt;/li&gt;&#xA;&lt;li&gt;每支转债要适度分散，有便宜货就捡，没有就继续等待，不懂不做。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>浅谈投资</title>
       <link>https://blog.dfxtz.net/post/2021/talk-about-investment.html</link>
       <pubDate>Thu, 22 Apr 2021 00:20:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/talk-about-investment.html</guid>
-      <description>&lt;p&gt;&lt;code&gt; 托尔斯泰曾经说过“幸福的人都是相似的,不幸的人各有各的不幸”，在我看来投资也一样，为什么在证券市场会有那么多的悲惨故事发生？无非是不守纪律、不自知、贪婪、杠杆梭哈、不愿慢慢变富等等，所以我想投资这件事不是看谁挣的多，而是看谁活得久，相信复利的力量，保持积极的学习心态，让自己的能力配得上你的财富。 &lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;投资投的是什么&#34;&gt;投资投的是什么？&lt;/h3&gt;
-&lt;p&gt;1.买入指定标的，期望在未来可以带来超过原有现金价值的现金流。&lt;br&gt;
-3.投资不限于股票，还包括很多比如说房产、债券、基金、期权等各种金融衍生品。&lt;br&gt;
-3.买股票实际就是买好公司。&lt;br&gt;
-4.以一定的安全边际买入，以心目中目标价再降20%的价格买入；耐心等待，宁愿失去机会，但成功率有保证，有较厚的安全垫。&lt;br&gt;
-5.不要过多关注价格波动，想想当初买入的理由，基本面没有变化就持仓不动，如果持有让自己不舒服了那就割掉。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;code&gt;托尔斯泰曾经说过“幸福的人都是相似的,不幸的人各有各的不幸”，在我看来投资也一样，为什么在证券市场会有那么多的悲惨故事发生？无非是不守纪律、不自知、贪婪、杠杆梭哈、不愿慢慢变富等等，所以我想投资这件事不是看谁挣的多，而是看谁活得久，相信复利的力量，保持积极的学习心态，让自己的能力配得上你的财富。&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;投资投的是什么&#34;&gt;投资投的是什么？&lt;/h3&gt;&#xA;&lt;p&gt;1.买入指定标的，期望在未来可以带来超过原有现金价值的现金流。&lt;br&gt;&#xA;3.投资不限于股票，还包括很多比如说房产、债券、基金、期权等各种金融衍生品。&lt;br&gt;&#xA;3.买股票实际就是买好公司。&lt;br&gt;&#xA;4.以一定的安全边际买入，以心目中目标价再降20%的价格买入；耐心等待，宁愿失去机会，但成功率有保证，有较厚的安全垫。&lt;br&gt;&#xA;5.不要过多关注价格波动，想想当初买入的理由，基本面没有变化就持仓不动，如果持有让自己不舒服了那就割掉。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2021规划</title>
       <link>https://blog.dfxtz.net/post/2021/2021-plan.html</link>
       <pubDate>Tue, 09 Feb 2021 10:21:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/2021-plan.html</guid>
-      <description>&lt;p&gt;2020不管有怎样的经历和困难，都已经过去，疫情的影响让世界的格局和经济发生了巨大变化，我们的国家疫情控制上在世界面前是令人骄傲的，全球看这样的黑天鹅风险，危机中有很多黄金机会，作为个人向前看保持初心继续前行，去抓住其中的机会。&lt;/p&gt;
-&lt;p&gt;迎接2021年，制定新一年的计划：&lt;/p&gt;</description>
+      <description>&lt;p&gt;2020不管有怎样的经历和困难，都已经过去，疫情的影响让世界的格局和经济发生了巨大变化，我们的国家疫情控制上在世界面前是令人骄傲的，全球看这样的黑天鹅风险，危机中有很多黄金机会，作为个人向前看保持初心继续前行，去抓住其中的机会。&lt;/p&gt;&#xA;&lt;p&gt;迎接2021年，制定新一年的计划：&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>保住本金立于不败之地</title>
       <link>https://blog.dfxtz.net/post/2021/keep-your-principal-in-an-invincible-position.html</link>
       <pubDate>Sun, 31 Jan 2021 18:00:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/keep-your-principal-in-an-invincible-position.html</guid>
       <description>活着才有希望，不输才有复利 一月的美股市场上演了以游戏驿站（GME.US）为导火索的散户收割做空机构（香橼）的戏码，最终香橼被强平大败，GME</description>
     </item>
-    
     <item>
       <title>谈谈港股打新</title>
       <link>https://blog.dfxtz.net/post/2020/talk-about-the-hong-kong-stock-market.html</link>
       <pubDate>Sun, 15 Nov 2020 16:50:00 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2020/talk-about-the-hong-kong-stock-market.html</guid>
       <description>9月开始进行港股打新，先后中了农夫、明源云、先声药业，包括暂停IPO的蚂蚁；因先声药业暗盘破发导致整体打新收益利润回吐，导致亏损；先声药业上</description>
     </item>
-    
     <item>
       <title>副业赚钱--练习写作</title>
       <link>https://blog.dfxtz.net/post/2021/how-to-learn-to-write.html</link>
       <pubDate>Sat, 10 Oct 2020 13:41:22 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2021/how-to-learn-to-write.html</guid>
       <description>相信不少的小伙伴都想拥有自己的第二职业成为一名斜杠青年，而且这份职业的收入越被动越好，这样就有了一份“睡后收入”或者叫被动收入，在未来的某一</description>
     </item>
-    
     <item>
       <title>我的书单</title>
       <link>https://blog.dfxtz.net/post/2020/book-list.html</link>
       <pubDate>Mon, 04 May 2020 19:41:22 +0800</pubDate>
-      
       <guid>https://blog.dfxtz.net/post/2020/book-list.html</guid>
       <description>在不能行万里路时，至少要努力做到读几本书，古话说的好“孰能无惑，惑而不从师，其为惑也，终不解矣”，读书可以是终身的习惯，从书中找寻自己的答案</description>
     </item>
-    
   </channel>
 </rss>

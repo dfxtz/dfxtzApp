@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 低风险投资</title>
+    <link>http://localhost:1313/posts.html</link>
+    <description>Recent content in Posts on 低风险投资</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2024 10:08:32 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OB&#43;HUGO一键式编写与发布</title>
+      <link>http://localhost:1313/ob-hugo%E4%B8%80%E9%94%AE%E5%BC%8F%E7%BC%96%E5%86%99%E4%B8%8E%E5%8F%91%E5%B8%83.html</link>
+      <pubDate>Sun, 05 May 2024 10:08:32 +0800</pubDate>
+      <guid>http://localhost:1313/ob-hugo%E4%B8%80%E9%94%AE%E5%BC%8F%E7%BC%96%E5%86%99%E4%B8%8E%E5%8F%91%E5%B8%83.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>博客图传处理方案</title>
+      <link>http://localhost:1313/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E4%BC%A0%E5%A4%84%E7%90%86%E6%96%B9%E6%A1%88.html</link>
+      <pubDate>Fri, 03 May 2024 21:06:20 +0800</pubDate>
+      <guid>http://localhost:1313/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E4%BC%A0%E5%A4%84%E7%90%86%E6%96%B9%E6%A1%88.html</guid>
+      <description>通过quickAdd快速新建文章。 通过Github Actions自动编译、部署。 静态资源管理之图床。 Buttons 插件安装。 测试新建文章，插入图片，测试</description>
+    </item>
+  </channel>
+</rss>
