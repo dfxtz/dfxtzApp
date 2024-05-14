@@ -6,22 +6,8 @@
     <description>Recent content in Blog on 低风险投资</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jul 2021 18:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 17:06:33 +0800</lastBuildDate>
     <atom:link href="https://blog.dfxtz.net/tags/blog/atom.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>hugo搭建博客上云</title>
-      <link>https://blog.dfxtz.net/post/2021/build-a-blog-from-0-to-1-with-hugo.html</link>
-      <pubDate>Sun, 11 Jul 2021 18:02:00 +0800</pubDate>
-      <guid>https://blog.dfxtz.net/post/2021/build-a-blog-from-0-to-1-with-hugo.html</guid>
-      <description>思路&amp;amp;过程 下载hugo, 选择喜欢的主题 申请云服务器 从gitpages迁移到云服务器 域名解析 nginx安装 &amp;amp;&amp;amp; 反向代理配置 https配置</description>
-    </item>
-    <item>
-      <title>给hugo增加夜间模式</title>
-      <link>https://blog.dfxtz.net/post/2021/added-night-mode-to-hugo.html</link>
-      <pubDate>Sun, 11 Jul 2021 17:20:00 +0800</pubDate>
-      <guid>https://blog.dfxtz.net/post/2021/added-night-mode-to-hugo.html</guid>
-      <description>夜间模式还是有必要的，要不晚上看白屏太刺眼，参考某乎上的文章做了调整。 夜间模式样式 支持手动切换 固定时间段自动检测。 本地localStorag</description>
-    </item>
     <item>
       <title>开启我的博客之旅</title>
       <link>https://blog.dfxtz.net/post/2020/set-sail-2020-and-start-my-blog-journey.html</link>
